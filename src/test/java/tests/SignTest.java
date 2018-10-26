@@ -19,7 +19,7 @@ public class SignTest {
         navegador.findElement(By.name("Submit")).click();
         navegador.findElement(By.linkText("Proceed to checkout")).click();
         navegador.findElement(By.linkText("Proceed to checkout")).click();
-        navegador.findElement(By.id("authentication")).findElement(By.name("email_create")).sendKeys("13@outlook.com");
+        navegador.findElement(By.id("authentication")).findElement(By.name("email_create")).sendKeys("teste@outlook.com");
         navegador.findElement(By.name("SubmitCreate")).click();
         navegador.findElement(By.name("id_gender")).click();
         navegador.findElement(By.id("authentication")).findElement(By.name("customer_firstname")).sendKeys("Diego");
