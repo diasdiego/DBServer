@@ -5,6 +5,8 @@ Instruções de configuração
 
 - A automação do sistema foi criado no programa IntelliJ IDEA Community 2018.2.
 - Para o desenvolvimento do Script, foi necessário a instalação do JDK.
+- Tecnologia: Java.
+- Framework: Selenium Webdriver.
 
 Execução do seu script
 
