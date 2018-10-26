@@ -10,14 +10,14 @@ Execução do seu script
 
 A automação desse sistema consiste em realizar uma compra com suscesso, onde se executou e validou os seguintes passos:
 
-- Acessou-se o site: www.automationpractice.com.
-- Escolhou-se um produto qualquer na loja.
-- O produto escolhido foi adicinado ao carrinho.
-- Prosseguiu-se com o checkout.
-- Foi validado se o produto foi corretamente adicionado ao carrinho.
-- Realizou-se um cadastro de cliente preenchendo todos os campos obrigatórios dos formulários.
-- Validou-se o endereço se está correto.
-- Aceitou-se os termos de serviço.
-- Validou-se o valor total da compra.
-- Selecionou-se um método de pagamento.
-- Confirmou-se a compra e validou se a compra foi finalizada com sucesso.
+- Acessar o site: www.automationpractice.com.
+- Escolher um produto qualquer na loja.
+- Verificar se o produto escolhido foi adicinado ao carrinho.
+- Prosseguir com o checkout.
+- Validar se o produto foi corretamente adicionado ao carrinho.
+- Realizar um cadastro de cliente preenchendo todos os campos obrigatórios dos formulários.
+- Validar se o endereço está correto.
+- Aceitar os termos de serviço.
+- Validar o valor total da compra.
+- Selecionar um método de pagamento.
+- Confirmar a compra e validar se foi finalizada com sucesso.
